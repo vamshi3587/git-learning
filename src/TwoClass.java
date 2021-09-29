@@ -13,8 +13,8 @@ list.add(Boolean.FALSE);
 
 System.out.print(list.size()); System.out.print(list.get (1) instanceof Boolean);
 Userdata userdata=new Userdata();
-userdata.setId(12);
-userdata.setName("vamshi");
+userdata.setId(15);
+userdata.setName("Sai");
 System.out.println(userdata.getId() +" "+ userdata.getName());
 }
 }
