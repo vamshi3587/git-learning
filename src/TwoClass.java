@@ -9,7 +9,7 @@ list.add(true);
 
 list.add(Boolean.parseBoolean("False"));
 
-list.add(Boolean.TRUE);
+list.add(Boolean.FALSE);
 
 System.out.print(list.size()); System.out.print(list.get (1) instanceof Boolean);
 Userdata userdata=new Userdata();
